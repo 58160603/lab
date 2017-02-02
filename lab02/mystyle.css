@@ -1,0 +1,24 @@
+body {
+    background-color: #CCFFFF;
+}
+
+p {
+    color: #0000ff;
+}
+
+.myclass {
+    color: #ff00ff;
+}
+
+col {
+    column-span: 2;
+}
+
+table {
+    border: 3;
+    border-color: blue;
+    width: 80%;
+    height: auto;
+    align-content: center;
+    text-align: center;
+}
